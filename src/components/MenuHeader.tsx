@@ -14,7 +14,7 @@ const MenuHeader = () => {
           Bran Castle
         </h1>
         <h2 className="font-serif text-xl sm:text-2xl md:text-3xl lg:text-4xl text-elegant-dark-grey mb-6 md:mb-8">
-          Fine Dining Experience
+          MENU
         </h2>
         <div className="w-24 md:w-32 h-px bg-elegant-brown mx-auto mb-6 md:mb-8"></div>
         <p className="text-elegant-dark-grey text-lg sm:text-xl md:text-2xl font-light mb-3 md:mb-4">

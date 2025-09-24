@@ -156,9 +156,9 @@ const Index = () => {
 
         <div className="text-center mt-8 md:mt-12 p-4 md:p-6">
           <div className="w-24 md:w-32 h-px bg-elegant-brown mx-auto mb-4"></div>
-          <p className="text-elegant-grey text-xs md:text-sm italic px-4">
+          {/* <p className="text-elegant-grey text-xs md:text-sm italic px-4">
             Crafted with passion in the shadows of Bran Castle
-          </p>
+          </p> */}
         </div>
       </div>
     </div>
