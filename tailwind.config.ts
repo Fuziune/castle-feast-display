@@ -47,12 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        castle: {
-          burgundy: "hsl(var(--castle-burgundy))",
-          gold: "hsl(var(--castle-gold))",
-          cream: "hsl(var(--castle-cream))",
-          dark: "hsl(var(--castle-dark))",
-          charcoal: "hsl(var(--castle-charcoal))",
+        elegant: {
+          brown: "hsl(var(--elegant-brown))",
+          beige: "hsl(var(--elegant-beige))",
+          cream: "hsl(var(--elegant-cream))",
+          grey: "hsl(var(--elegant-grey))",
+          "dark-grey": "hsl(var(--elegant-dark-grey))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
@@ -67,7 +67,7 @@ export default {
       },
       backgroundImage: {
         "gradient-elegant": "var(--gradient-elegant)",
-        "gradient-gold": "var(--gradient-gold)",
+        "gradient-beige": "var(--gradient-beige)",
       },
       fontFamily: {
         serif: ["Playfair Display", "serif"],

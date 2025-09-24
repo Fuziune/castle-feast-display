@@ -106,7 +106,7 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <div className="container mx-auto px-4 py-8 max-w-4xl">
+      <div className="container mx-auto px-2 sm:px-4 py-4 md:py-8 max-w-4xl">
         <MenuHeader />
         
         <MenuSection 
@@ -154,9 +154,9 @@ const Index = () => {
           items={desserts}
         />
 
-        <div className="text-center mt-12 p-6">
-          <div className="w-32 h-px bg-castle-gold mx-auto mb-4"></div>
-          <p className="text-muted-foreground text-sm italic">
+        <div className="text-center mt-8 md:mt-12 p-4 md:p-6">
+          <div className="w-24 md:w-32 h-px bg-elegant-brown mx-auto mb-4"></div>
+          <p className="text-elegant-grey text-xs md:text-sm italic px-4">
             Crafted with passion in the shadows of Bran Castle
           </p>
         </div>

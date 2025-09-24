@@ -8,44 +8,44 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 20 14% 8%;
-    --foreground: 36 45% 88%;
+    --background: 35 20% 96%;
+    --foreground: 25 15% 25%;
 
-    --card: 20 14% 12%;
-    --card-foreground: 36 45% 88%;
+    --card: 30 25% 98%;
+    --card-foreground: 25 15% 25%;
 
-    --popover: 20 14% 12%;
-    --popover-foreground: 36 45% 88%;
+    --popover: 30 25% 98%;
+    --popover-foreground: 25 15% 25%;
 
-    --primary: 358 75% 40%;
-    --primary-foreground: 36 45% 88%;
+    --primary: 25 35% 45%;
+    --primary-foreground: 35 20% 96%;
 
-    --secondary: 45 100% 70%;
-    --secondary-foreground: 20 14% 8%;
+    --secondary: 40 15% 85%;
+    --secondary-foreground: 25 15% 25%;
 
-    --muted: 20 14% 16%;
-    --muted-foreground: 36 20% 60%;
+    --muted: 35 15% 90%;
+    --muted-foreground: 25 10% 55%;
 
-    --accent: 45 100% 70%;
-    --accent-foreground: 20 14% 8%;
+    --accent: 30 20% 80%;
+    --accent-foreground: 25 15% 25%;
 
-    --destructive: 0 84.2% 60.2%;
+    --destructive: 0 70% 55%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 20 14% 20%;
-    --input: 20 14% 16%;
-    --ring: 358 75% 40%;
+    --border: 30 15% 85%;
+    --input: 35 15% 90%;
+    --ring: 25 35% 45%;
 
-    --castle-burgundy: 358 75% 40%;
-    --castle-gold: 45 100% 70%;
-    --castle-cream: 36 45% 88%;
-    --castle-dark: 20 14% 8%;
-    --castle-charcoal: 20 14% 12%;
+    --elegant-brown: 25 35% 45%;
+    --elegant-beige: 40 25% 88%;
+    --elegant-cream: 35 20% 96%;
+    --elegant-grey: 25 10% 55%;
+    --elegant-dark-grey: 25 15% 35%;
 
-    --gradient-elegant: linear-gradient(135deg, hsl(var(--castle-burgundy)), hsl(var(--castle-dark)));
-    --gradient-gold: linear-gradient(135deg, hsl(var(--castle-gold)), hsl(var(--secondary)));
+    --gradient-elegant: linear-gradient(135deg, hsl(var(--elegant-brown)), hsl(var(--elegant-dark-grey)));
+    --gradient-beige: linear-gradient(135deg, hsl(var(--elegant-beige)), hsl(var(--elegant-cream)));
 
-    --radius: 0.5rem;
+    --radius: 0.75rem;
 
     --sidebar-background: 0 0% 98%;
 
