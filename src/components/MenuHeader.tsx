@@ -18,7 +18,6 @@ const MenuHeader = () => {
         </h2>
         <div className="w-24 md:w-32 h-px bg-elegant-brown mx-auto mb-6 md:mb-8"></div>
         <p className="text-elegant-dark-grey text-lg sm:text-xl md:text-2xl font-light mb-3 md:mb-4">
-          September 28, 2025
         </p>
         <p className="text-elegant-grey text-sm sm:text-base md:text-lg px-4">
           An exclusive culinary journey in the legendary Transylvanian castle
