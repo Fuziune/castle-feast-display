@@ -59,6 +59,20 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- **TinaCMS** - Git-backed headless CMS for content management
+
+## 📝 Content Management with TinaCMS
+
+This project includes **TinaCMS** for easy content editing! You can edit menu items, sections, and header content through a visual interface.
+
+**Quick Start:**
+```bash
+npm run dev
+```
+
+Then visit `http://localhost:5173/admin/index.html` to access the content editor.
+
+**📚 For detailed TinaCMS usage, see [TINACMS_GUIDE.md](./TINACMS_GUIDE.md)**
 
 ## How can I deploy this project?
 

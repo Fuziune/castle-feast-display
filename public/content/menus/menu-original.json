@@ -1,0 +1,141 @@
+{
+  "title": "Original Menu Selection",
+  "slug": "menu-original",
+  "isDefault": false,
+  "sections": [
+    {
+      "title": "Aperitif Selection",
+      "subtitle": "Cold Starter - Tarts, Finger Food, Canapés, Tapas",
+      "items": [
+        {
+          "name": "Pie with Mushrooms and Greens",
+          "description": "Mix of mushrooms, flour, truffle ragu, onion cooked in wine, product vegetable (cooking cream), egg, oil, garlic, vegetables",
+          "allergens": "eggs, gluten"
+        },
+        {
+          "name": "Cake Vegetable Appetizer Brunoise",
+          "description": "Vegetables brunoise, peppers red, zucchini, onion, carrots colored, flour, egg, oil, greens",
+          "allergens": "eggs, gluten"
+        }
+      ]
+    },
+    {
+      "title": "Selection of Spreads & Dips",
+      "subtitle": "",
+      "items": [
+        {
+          "name": "Eggplant Cream Classic with Onion and Mayonnaise",
+          "description": "Eggplant, onion, egg, oil, salt",
+          "allergens": ""
+        },
+        {
+          "name": "Eggplant Salad with Peppers Baked, Honey and Apple Cider Vinegar",
+          "description": "Eggplant, peppers baked, oil, vinegar, honey, salt, pepper",
+          "allergens": ""
+        }
+      ]
+    },
+    {
+      "title": "Fish Selection",
+      "subtitle": "",
+      "items": [
+        {
+          "name": "Trout Roe Cream",
+          "description": "Caviar, oil, semolina, lemon",
+          "allergens": "milk, gluten"
+        },
+        {
+          "name": "Trout Cream Smoked with Butter and Capers",
+          "description": "Fish smoked, onion, butter, mayonnaise, oil, lemon and capers",
+          "allergens": "fish, milk, gluten, egg"
+        }
+      ]
+    },
+    {
+      "title": "Cheese Selection",
+      "subtitle": "Frostings and Mousses",
+      "items": [
+        {
+          "name": "Cheese Seasoned with Cumin and Vegetables Sotto Olio",
+          "description": "Milk, cumin, olives, oregano, tomatoes dry - olives, tomatoes dry",
+          "allergens": ""
+        },
+        {
+          "name": "Goat Cheese Cream with Peppers Baked and Basil Pesto",
+          "description": "Milk, pepper baked, greens, oil, lemon",
+          "allergens": ""
+        },
+        {
+          "name": "Cheese Mousse Blue with Green Apple Puree and Blueberries",
+          "description": "Cream cheese, cheese Rokeford, green apple puree, sugar",
+          "allergens": "milk"
+        }
+      ]
+    },
+    {
+      "title": "Selection of Cured Meats",
+      "subtitle": "Raw-Dried Meat Products / Pastrami",
+      "items": [
+        {
+          "name": "Raw Prosciutto with Yellow Watermelon",
+          "description": "Premium prosciutto paired with fresh yellow watermelon",
+          "allergens": ""
+        },
+        {
+          "name": "Duck Breast Smoked (Carpaccio) with Apricots",
+          "description": "Delicately smoked duck breast served carpaccio style with fresh apricots",
+          "allergens": ""
+        },
+        {
+          "name": "Raw-Dried Sausages with Nuts and Hazelnuts",
+          "description": "Traditional cured sausages with mixed nuts and hazelnuts",
+          "allergens": "peanuts, nuts"
+        }
+      ]
+    },
+    {
+      "title": "Warm Buffet",
+      "subtitle": "Warm Corner",
+      "items": [
+        {
+          "name": "Turkey Fillet with Curry Sauce and Ginger & Basmati Rice",
+          "description": "Turkey meat, vegetable cooking product, curry, oil, ginger",
+          "allergens": ""
+        },
+        {
+          "name": "Beef Slow Cooked in Tomato Reduction with Sweet Corn and Red Beans",
+          "description": "Beef, onion, pepper, tomato sauce, sweet corn, beans tomato, celery, oil, salt, pepper",
+          "allergens": "gluten, celery"
+        },
+        {
+          "name": "Ratatouille with Parmesan & Black Rice",
+          "description": "Eggplant, tomato, zucchini, pepper colorful, oil, oregano, salt, pepper, rice, oil, salt pepper",
+          "allergens": "milk, mustard"
+        }
+      ]
+    },
+    {
+      "title": "Artisanal Breads",
+      "subtitle": "",
+      "items": [
+        {
+          "name": "Various Types of Artisanal Bread",
+          "description": "Selection of breads with potatoes, seeds, and black varieties",
+          "allergens": "gluten, sesame"
+        }
+      ]
+    },
+    {
+      "title": "Dessert",
+      "subtitle": "Transylvanian Cakes",
+      "items": [
+        {
+          "name": "Transylvanian Cake Mix - Three Varieties",
+          "description": "Traditional Transylvanian cakes in fruit, chocolate and vanilla varieties",
+          "allergens": "gluten, eggs, nuts, peanuts"
+        }
+      ]
+    }
+  ]
+}
+
