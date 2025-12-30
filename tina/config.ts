@@ -19,7 +19,7 @@ export default defineConfig({
     outputFolder: "admin",
     publicFolder: "public",
   },
-  media: {
+  media: { 
     tina: {
       mediaRoot: "",
       publicFolder: "public",

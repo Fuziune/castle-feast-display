@@ -14,7 +14,7 @@ dist-ssr
 
 # TinaCMS
 tina/__generated__
-public/admin
+# public/admin  # Uncommented to include in production
 !public/content
 
 # Editor directories and files
